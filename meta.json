@@ -14,15 +14,15 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-08-23",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年8月23日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-11-23",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月23日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
     "version": "0.1.0"
   },
   "counts": {
-    "records": 82,
+    "records": 81,
     "files": 1,
     "with_coordinates": 0
   },
@@ -47,38 +47,38 @@
     "holders.alias_kana": "保持者（関係技芸者）の芸名・雅号等 ふりがな",
     "holders.certificate_date": "認定書の交付又は再発行の年月日（選択書の交付年月日）",
     "holders.certification_class": "認定区分",
-    "holders.date": "認定・指名年月日",
-    "holders.name": "保持団体（関係技芸者の団体）の名称",
-    "holders.name_kana": "保持団体（関係技芸者の団体）の名称 ふりがな",
+    "holders.date": "認定（指定）年月日",
+    "holders.name": "保持者（関係技芸者）の氏名",
+    "holders.name_kana": "保持者（関係技芸者）の氏名 ふりがな",
     "holders.representative": "保持団体（関係技芸者の団体）の代表者氏名",
     "holders.representative_kana": "保持団体（関係技芸者の団体）の代表者氏名 ふりがな",
     "has_attachment": "添付ファイルの有無",
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 82,
-    "managed_id": 82,
-    "category_code": 82,
-    "category_name": 82,
-    "url": 82,
-    "name": 82,
-    "name_kana": 81,
-    "types": 82,
+    "ledger_id": 81,
+    "managed_id": 81,
+    "category_code": 81,
+    "category_name": 81,
+    "url": 81,
+    "name": 81,
+    "name_kana": 80,
+    "types": 81,
     "notes": 17,
-    "designation_kind": 82,
-    "certification_class": 79,
-    "designated_date": 82,
+    "designation_kind": 81,
+    "certification_class": 78,
+    "designated_date": 81,
     "criteria": 12,
-    "description": 78,
+    "description": 77,
     "detailed_description": 5,
-    "holders": 80,
-    "has_attachment": 82,
-    "has_photo": 82
+    "holders": 79,
+    "has_attachment": 81,
+    "has_photo": 81
   },
   "facets": {
     "types": {
       "有形": 47,
-      "無形": 30,
+      "無形": 29,
       "有形・無形文化財等関係": 5
     },
     "criteria": {
@@ -86,7 +86,7 @@
       "一 有形文化財、有形の民俗文化財又は記念物の保存のために欠くことのできない伝統 的な技術又は技能のうち修理、復旧、復元、模写、模造等に係るもの（次項において「有形文化財等の修理等の技術等」という。）で保存の措置を講ずる必要のあるもの": 1
     },
     "designation_kind": {
-      "認定": 82
+      "認定": 81
     }
   },
   "files": [
@@ -94,7 +94,7 @@
       "path": "data/99_unspecified.jsonl",
       "area_code": "99",
       "area_name": "地域を定めない",
-      "records": 82
+      "records": 81
     }
   ]
 }
